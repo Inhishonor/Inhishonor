@@ -14,3 +14,5 @@ In addition, I am a nototrius distro hoppper. I like to change my computer's and
 ### Random Stuff
 - ⚡ Fun fact: I started programming when I was 12 using Khan Academy, learning JavaScript.
 - 💻 OS of Choice: I currently run Pop OS on my computer, and Calyx OS on my phone.
+- 🏅My Github Stats:\
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Inhishonor&hide=stars)](https://github.com/Inhishonor/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=Inhishonor)](https://git.io/streak-stats)
