@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Inhishonor/Inhishonor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋 I am Inhishonor
+### About Me:
+I am a Christian, musician, athlete and a student. I love contributing to other open source apps, that prioritize privacy and user-control. I am currently learning Android App development and Machine Learning. I am also foraying into the world of System Admins...\
+In addition, I am a nototrius distro hoppper. I like to change my computer's and phones operating systems quite often. 😁
+### I’m currently contributing to...
+* [Quik](https://github.com/octoshrimpy/quik); A feature rich messaging app for Android.
+* [Dicio](https://github.com/Stypox/dicio-android); An amazing open source voice assistant app.
+* Manners Master; An AI model I am currently building to help with learning ettiquitte and manners.
+### Interests
+* Android Apps
+* Custom Android ROMS
+* Self-Hosted Cloud
+* Linux Development
+### Random Stuff
+- ⚡ Fun fact: I started programming when I was 12 using Khan Academy, learning JavaScript.
+- 💻 OS of Choice: I currently run Pop OS on my computer, and Calyx OS on my phone.
