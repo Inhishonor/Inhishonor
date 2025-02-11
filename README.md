@@ -5,6 +5,7 @@ In addition, I am a nototrius distro hoppper. I like to change my computer's and
 ### I’m currently contributing to...
 * [Quik](https://github.com/octoshrimpy/quik); A feature rich messaging app for Android.
 * [Dicio](https://github.com/Stypox/dicio-android); An amazing open source voice assistant app.
+* [Awesome Desktop Environments](https://github.com/Inhishonor/awesome-desktop-environments); An awesome list for Linux Desktop Environments.
 * Manners Master; An AI model I am currently building to help with learning ettiquitte and manners.
 ### Interests
 * Android Apps
