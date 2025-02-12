@@ -1,7 +1,6 @@
 ## Hi there 👋 I am Inhishonor
 ### About Me:
-I am a Christian, musician, athlete and a student. I love contributing to other open source apps, that prioritize privacy and user-control. I am currently learning Android App development and Machine Learning. I am also foraying into the world of System Admins...\
-In addition, I am a nototrius distro hoppper. I like to change my computer's and phones operating systems quite often. 😁
+I am a Christian, musician, athlete and a student. I love contributing to other open source apps, that prioritize privacy and user-control. I am currently learning Android App development and Machine Learning. I am also foraying into the world of System Admins...
 ### I’m currently contributing to...
 * [Quik](https://github.com/octoshrimpy/quik); A feature rich messaging app for Android.
 * [Dicio](https://github.com/Stypox/dicio-android); An amazing open source voice assistant app.
