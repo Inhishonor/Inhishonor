@@ -1,8 +1,9 @@
 name: Update README
 on:
+  workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
-  workflow_dispatch:
+
 jobs:
   build:
     name: Update this repo's README with recent activity
@@ -11,8 +12,10 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: Inhishonor/github-activity-readme@main
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Update Repository with github-activity
+        uses: Inhishonor/github-activity-readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
