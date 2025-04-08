@@ -17,6 +17,6 @@ I enjoy experimenting with different Linux distros and desktop environments and 
 - 💻 OS of Choice: I currently run Pop OS on my computer, and Calyx OS on my phone.
 - 🏅My Github Stats:\
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Inhishonor)](https://github.com/Inhishonor/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=Inhishonor)](https://git.io/streak-stats)
-- :zap: Recent Activity:
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
