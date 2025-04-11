@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I am Inhishonor
+### I’m currently contributing to...
+* [Quik](https://github.com/octoshrimpy/quik); A feature rich messaging app for Android.
+* [Dicio](https://github.com/Stypox/dicio-android); An amazing open source voice assistant app.
+* [Hypatia](https://github.com/MaintainTeam/Hypatia); A fork of the best FOSS malware scanner for android.
+* [Awesome Desktop Environments](https://github.com/Inhishonor/awesome-desktop-environments); An awesome list for Linux Desktop Environments.
+### Interests
+* Android Apps
+* Custom Android ROMS
+* Self-Hosted Anything
+* Linux Development
 
-<!--
-**Inhishonor/Inhishonor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏅My Github Stats:
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Inhishonor)](https://github.com/Inhishonor/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=Inhishonor)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
