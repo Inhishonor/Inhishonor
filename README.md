@@ -6,7 +6,7 @@
 * [Awesome Desktop Environments](https://github.com/Inhishonor/awesome-desktop-environments); An awesome list for Linux Desktop Environments.
 ### Interests
 * Android Apps
-* Custom Android ROMS
+* Custom Android OS'
 * Self-Hosted Anything
 * Linux Development
 
