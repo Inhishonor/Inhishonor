@@ -4,12 +4,19 @@
 * [Dicio](https://github.com/Stypox/dicio-android); An amazing open source voice assistant app.
 * [Hypatia](https://github.com/MaintainTeam/Hypatia); A fork of the best FOSS malware scanner for android.
 * [Awesome Desktop Environments](https://github.com/Inhishonor/awesome-desktop-environments); An awesome list for Linux Desktop Environments.
+### Various other projects
+* https://github.com/MaintainTeam/HypatiaDatabases - Databases for the Hypatia Malware Scanner
+* https://github.com/LineageOS/lineage_wiki - Contributed in various ways to the LineageOS wiki
+* https://github.com/Inhishonor/Mermaid-Diagram-Viewer - A simple website to store, view and customize MermaidJS Diagrams
 ### Interests
 * Android Apps
 * Custom Android OS'
-* Self-Hosted Anything
+* System's Administration
 * Linux Development
-
-### 🏅My Github Stats:
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Inhishonor)](https://github.com/Inhishonor/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=Inhishonor)](https://git.io/streak-stats)
-
+* Security Research
+### Languages
+* Kotlin
+* Java
+* TypeScript
+* JavaScript
+* Python
